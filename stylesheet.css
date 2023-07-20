@@ -1,0 +1,60 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    background-color: rgb(4, 125, 71);
+    border-radius: 20px;
+}
+table {
+     width: 100%;
+    /* border: 1px solid; */
+}
+body {
+    background-image: url('flag.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 400px;
+}
+button {
+    color: #fff;
+    background-color: rgb(15, 83, 60);
+    border-radius: 20px;
+    font-size: 60px;
+}
+th :hover {
+    color: #fff;
+    background-color: rgb(75, 196, 155);
+    transition: 2s;
+    border-radius: 20px;
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    background-color: rgb(4, 125, 71);
+    
+}
+.fa-square-facebook {
+    font-size: 60px;
+    color: rgb(58, 181, 243);
+    padding: 40px;
+}
+.fa-youtube {
+    font-size: 60px;
+    color: red;
+    padding: 40px;
+}
+.fa-whatsapp {
+    font-size: 60px;
+    color: rgb(69, 209, 64);
+    padding: 40px;
+}
